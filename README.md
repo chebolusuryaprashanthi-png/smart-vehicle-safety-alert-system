@@ -91,6 +91,22 @@ The repository contains the project documentation and presentation materials:
 - `svs documentation.pdf` — Detailed project documentation
 - `svs ppt.pptx.doc` — Project presentation
 
+## 📷 Project Showcase
+
+### Hardware Prototype
+
+![Smart Vehicle Safety System Prototype](images/model.jpeg)
+
+![Working Prototype](images/working%20demo.jpeg)
+
+### System Design
+
+![Vehicle Safety System Block Diagram](images/block%20diagram.jpeg)
+
+### System Flow
+
+![Vehicle Safety System Flowchart](images/flowchart.jpeg)
+
 ## 👥 Team
 
 - Ch. Surya Prashanthi
