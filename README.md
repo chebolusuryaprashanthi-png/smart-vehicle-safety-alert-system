@@ -1,6 +1,8 @@
-# Smart Vehicle Safety & Alert System
+# 🚗 Smart Vehicle Safety & Alert System
 
 A low-cost vehicle safety and emergency alert system designed to improve driver and passenger safety using Arduino, GPS, GSM, alcohol detection, and an SOS alert mechanism.
+
+**Technologies:** Arduino UNO • GPS (NEO-6M) • GSM (SIM800L) • MQ-3 Alcohol Sensor • Embedded Systems • IoT
 
 ## 📌 Project Overview
 
