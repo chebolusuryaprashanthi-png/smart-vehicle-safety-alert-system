@@ -89,9 +89,9 @@ The project also includes alcohol detection and an SOS push button for initiatin
 
 The repository contains the project documentation and presentation materials:
 
-- `SVS Abstract rtp.pdf` — Project abstract
-- `svs documentation.pdf` — Detailed project documentation
-- `svs ppt.pptx.doc` — Project presentation
+* `project-abstract.pdf` — Project abstract
+* `project-documentation.pdf` — Detailed project documentation
+* `project-presentation.doc` — Project presentation
 
 ## 📷 Project Showcase
 
